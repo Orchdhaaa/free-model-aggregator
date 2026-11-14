@@ -1,0 +1,1 @@
+{"description":"One server that serves the OpenAI Chat Completions and Anthropic Messages APIs over ten free-tier model providers, routing each request to the best free model that can serve it.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"free-model-aggregator","type":"module","version":"1.0.0"}
